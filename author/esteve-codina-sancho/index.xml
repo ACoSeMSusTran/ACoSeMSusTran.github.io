@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Esteve Codina Sancho | ACoSeMSusTran</title>
+    <link>https://acosemsustran.github.io/author/esteve-codina-sancho/</link>
+      <atom:link href="https://acosemsustran.github.io/author/esteve-codina-sancho/index.xml" rel="self" type="application/rss+xml" />
+    <description>Esteve Codina Sancho</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-en</language><lastBuildDate>Tue, 05 Jul 2022 08:12:21 +0000</lastBuildDate>
+    <image>
+      <url>https://acosemsustran.github.io/author/esteve-codina-sancho/avatar_hue156d2c8f3fe344d1e082a17e3751972_5037_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Esteve Codina Sancho</title>
+      <link>https://acosemsustran.github.io/author/esteve-codina-sancho/</link>
+    </image>
+    
+    <item>
+      <title>Project Kick-off</title>
+      <link>https://acosemsustran.github.io/news/project-kick-off/</link>
+      <pubDate>Tue, 05 Jul 2022 08:12:21 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/news/project-kick-off/</guid>
+      <description>&lt;p&gt;In October 2021, with the participation of the coordinators of the three subprojects, the &lt;strong&gt;Kick-off meeting&lt;/strong&gt; was held in a virtual meeting. The summary of the previous project: &lt;em&gt;Robustness, efficiency and recovery of public transport systems&lt;/em&gt; (&lt;em&gt;TRA2016-76914-C3&lt;/em&gt;), in which the same teams collaborated, was reviewed.&lt;/p&gt;
+&lt;p&gt;The results of this previous project establish the starting point of the current project, with the acronym &lt;strong&gt;ACoCeMSusTran&lt;/strong&gt;. In this new project, the developments previously achieved will be extended through the &lt;strong&gt;coordinated&lt;/strong&gt; and &lt;strong&gt;complementary&lt;/strong&gt; application of &lt;strong&gt;machine learning&lt;/strong&gt; technologies and a&lt;strong&gt;rtificial intelligence&lt;/strong&gt; to the &lt;strong&gt;operational research models&lt;/strong&gt; developed in the planning and management of &lt;strong&gt;urban mobility&lt;/strong&gt; and &lt;strong&gt;rail&lt;/strong&gt; and &lt;strong&gt;air transport&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;A summary of the project &lt;em&gt;Robustness, efficiency and recovery of public transport systems&lt;/em&gt; can be found at:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.uclm.es/grupomat/investigacion/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;UCLM&lt;/strong&gt; &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://futur.upc.edu/19380141&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UPC&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

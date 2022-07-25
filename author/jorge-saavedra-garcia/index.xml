@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jorge Saavedra García | ACoSeMSusTran</title>
+    <link>https://acosemsustran.github.io/author/jorge-saavedra-garcia/</link>
+      <atom:link href="https://acosemsustran.github.io/author/jorge-saavedra-garcia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jorge Saavedra García</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-en</language>
+    <image>
+      <url>https://acosemsustran.github.io/author/jorge-saavedra-garcia/avatar_hubd3340af10e56fa919c205e1320b1158_53938_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jorge Saavedra García</title>
+      <link>https://acosemsustran.github.io/author/jorge-saavedra-garcia/</link>
+    </image>
+    
+  </channel>
+</rss>

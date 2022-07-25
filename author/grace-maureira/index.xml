@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grace Maureira | ACoSeMSusTran</title>
+    <link>https://acosemsustran.github.io/author/grace-maureira/</link>
+      <atom:link href="https://acosemsustran.github.io/author/grace-maureira/index.xml" rel="self" type="application/rss+xml" />
+    <description>Grace Maureira</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-en</language><lastBuildDate>Wed, 01 Apr 2020 11:00:18 +0000</lastBuildDate>
+    <image>
+      <url>https://acosemsustran.github.io/media/logo_hu5b3c60e6ebf8a879355ca5126b086bb5_68812_300x300_fit_lanczos_3.png</url>
+      <title>Grace Maureira</title>
+      <link>https://acosemsustran.github.io/author/grace-maureira/</link>
+    </image>
+    
+    <item>
+      <title>A model for the simultaneous selection of bus lines and frequency setting problems in the expansion of public transit systems</title>
+      <link>https://acosemsustran.github.io/publication/a-model-for-the-simultaneous-selection-of-bus-lines-and-frequency-setting-problems-in-the-expansion-of-public-transit-systems/</link>
+      <pubDate>Wed, 01 Apr 2020 11:00:18 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/a-model-for-the-simultaneous-selection-of-bus-lines-and-frequency-setting-problems-in-the-expansion-of-public-transit-systems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
