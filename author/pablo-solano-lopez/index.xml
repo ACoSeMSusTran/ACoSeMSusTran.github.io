@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pablo Solano López | ACoSeMSusTran</title>
+    <link>https://acosemsustran.github.io/author/pablo-solano-lopez/</link>
+      <atom:link href="https://acosemsustran.github.io/author/pablo-solano-lopez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pablo Solano López</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-en</language>
+    <image>
+      <url>https://acosemsustran.github.io/author/pablo-solano-lopez/avatar_hu17f08e4508b9bf7c54c0f4fcc5a8d820_4846_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Pablo Solano López</title>
+      <link>https://acosemsustran.github.io/author/pablo-solano-lopez/</link>
+    </image>
+    
+  </channel>
+</rss>

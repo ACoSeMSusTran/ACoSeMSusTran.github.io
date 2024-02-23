@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Julio Alberto López Gómez | ACoSeMSusTran</title>
+    <link>https://acosemsustran.github.io/author/julio-alberto-lopez-gomez/</link>
+      <atom:link href="https://acosemsustran.github.io/author/julio-alberto-lopez-gomez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Julio Alberto López Gómez</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-en</language>
+    <image>
+      <url>https://acosemsustran.github.io/author/julio-alberto-lopez-gomez/avatar_hu4c955a9f6cb4bd0d71224be51e7d879b_15510_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Julio Alberto López Gómez</title>
+      <link>https://acosemsustran.github.io/author/julio-alberto-lopez-gomez/</link>
+    </image>
+    
+  </channel>
+</rss>
+ 
+    <item>
+      <title>A prediction and behavioural analysis of machine learning methods for modelling travel mode choice</title>
+      <link>https://acosemsustran.github.io/publication/a-prediction-and-behavioural-analysis-of-machine-learning-methods-for-modelling-travel-mode-choice/</link>
+      <pubDate>Thu, 12 Jan 2023 09:18:00 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/a-prediction-and-behavioural-analysis-of-machine-learning-methods-for-modelling-travel-mode-choice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparative study of machine learning, deep neural networks and random utility maximization models for travel mode choice modelling</title>
+      <link>https://acosemsustran.github.io/publication/a-comparative-study-of-machine-learning-deep-neural-networks-and-random-utility-maximization-models-for-travel-mode-choice-modelling/</link>
+      <pubDate>Fri, 11 Mar 2022 10:36:09 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/a-comparative-study-of-machine-learning-deep-neural-networks-and-random-utility-maximization-models-for-travel-mode-choice-modelling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

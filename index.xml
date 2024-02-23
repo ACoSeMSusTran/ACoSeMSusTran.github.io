@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ACoSeMSusTran</title>
+    <link>https://acosemsustran.github.io/</link>
+      <atom:link href="https://acosemsustran.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>ACoSeMSusTran</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-en</language><lastBuildDate>Fri, 23 Feb 2024 16:12:20 +0000</lastBuildDate>
+    <image>
+      <url>https://acosemsustran.github.io/media/logo_hu5b3c60e6ebf8a879355ca5126b086bb5_68812_300x300_fit_lanczos_3.png</url>
+      <title>ACoSeMSusTran</title>
+      <link>https://acosemsustran.github.io/</link>
+    </image>
+    
+    <item>
+      <title>ROBIN: Rail mOBIlity simulatioN</title>
+      <link>https://acosemsustran.github.io/publication/robin-rail-mobility-simulation/</link>
+      <pubDate>Fri, 23 Feb 2024 16:12:20 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/robin-rail-mobility-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An efficient greedy heuristic for the real-time train platforming problem</title>
+      <link>https://acosemsustran.github.io/publication/an-efficient-greedy-heuristic-for-the-real-time-train-platforming-problem/</link>
+      <pubDate>Fri, 23 Feb 2024 16:09:53 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/an-efficient-greedy-heuristic-for-the-real-time-train-platforming-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PyKernelLogit: Penalised maximum likelihood estimation of Kernel Logistic Regression in Python</title>
+      <link>https://acosemsustran.github.io/publication/pykernellogit-penalised-maximum-likelihood-estimation-of-kernel-logistic-regression-in-python/</link>
+      <pubDate>Wed, 07 Feb 2024 18:24:19 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/pykernellogit-penalised-maximum-likelihood-estimation-of-kernel-logistic-regression-in-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A prediction and behavioural analysis of machine learning methods for modelling travel mode choice</title>
+      <link>https://acosemsustran.github.io/publication/a-prediction-and-behavioural-analysis-of-machine-learning-methods-for-modelling-travel-mode-choice/</link>
+      <pubDate>Thu, 12 Jan 2023 09:18:00 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/a-prediction-and-behavioural-analysis-of-machine-learning-methods-for-modelling-travel-mode-choice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A combined and robust modal-split/traffic assignment model for rail and road freight transport</title>
+      <link>https://acosemsustran.github.io/publication/a-combined-and-robust-modal-split-traffic-assignment-model-for-rail-and-road-freight-transport/</link>
+      <pubDate>Fri, 16 Sep 2022 15:54:28 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/a-combined-and-robust-modal-split-traffic-assignment-model-for-rail-and-road-freight-transport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project Kick-off</title>
+      <link>https://acosemsustran.github.io/news/project-kick-off/</link>
+      <pubDate>Tue, 05 Jul 2022 08:12:21 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/news/project-kick-off/</guid>
+      <description>&lt;p&gt;In October 2021, with the participation of the coordinators of the three subprojects, the &lt;strong&gt;Kick-off meeting&lt;/strong&gt; was held in a virtual meeting. The summary of the previous project: &lt;em&gt;Robustness, efficiency and recovery of public transport systems&lt;/em&gt; (&lt;em&gt;TRA2016-76914-C3&lt;/em&gt;), in which the same teams collaborated, was reviewed.&lt;/p&gt;
+&lt;p&gt;The results of this previous project establish the starting point of the current project, with the acronym &lt;strong&gt;ACoCeMSusTran&lt;/strong&gt;. In this new project, the developments previously achieved will be extended through the &lt;strong&gt;coordinated&lt;/strong&gt; and &lt;strong&gt;complementary&lt;/strong&gt; application of &lt;strong&gt;machine learning&lt;/strong&gt; technologies and a&lt;strong&gt;rtificial intelligence&lt;/strong&gt; to the &lt;strong&gt;operational research models&lt;/strong&gt; developed in the planning and management of &lt;strong&gt;urban mobility&lt;/strong&gt; and &lt;strong&gt;rail&lt;/strong&gt; and &lt;strong&gt;air transport&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;A summary of the project &lt;em&gt;Robustness, efficiency and recovery of public transport systems&lt;/em&gt; can be found at:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://blog.uclm.es/grupomat/investigacion/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;UCLM&lt;/strong&gt; &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://futur.upc.edu/19380141&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;UPC&lt;/a&gt;&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>PID2020-112967GB-C31</title>
+      <link>https://acosemsustran.github.io/project/pid2020-112967gb-c31/</link>
+      <pubDate>Tue, 07 Jun 2022 16:11:16 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/project/pid2020-112967gb-c31/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Meeting Optimization and Machine Learning for Railway Transport and Urban Mobility Planning and Management.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The shared objectives of this subproject are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;01 UPC-URJC-UCLM&lt;/strong&gt;. Modelling of competition between operators using static Nash Equilibrium models. Analysis of access charges policies under regular and extreme scenarios.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;02 UPC-URJC&lt;/strong&gt;. Strategic planning of fleets and routes in multimodal environments in competition and under highly variable settings.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;03 UPC-UCLM&lt;/strong&gt;. Modelling the time slot allocation by the Infrastructure manager in deregulated markets in both normal and low demand scenarios.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;05 UPC&lt;/strong&gt;. Activity-based models for uncertain and restricted demand situations for urban and interurban mobility.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Principal Investigators:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/esteve-codina-sancho/&#34;&gt;Esteve Codina Sancho&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/lidia-montero-mercade/&#34;&gt;Lídia Montero Mercadé&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Research team:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/esteve-codina-sancho/&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/eusebio-angulo-sanchez-herrera&#34;&gt;Eusebio Angulo Sánchez-Herrera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/doroteo-verastegui-rayo&#34;&gt;Doroteo Verastegui Rayo&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Work team:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/jaume-barcelo-bugeda&#34;&gt;Jaume Barceló Bugeda&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/maria-paz-linares-herreros&#34;&gt;María Paz Linares Herreros&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/francisco-lopez-ramos&#34;&gt;Francisco López Ramos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/ester-lorente-garcia&#34;&gt;Ester Lorente García&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/xavier-ros-roca&#34;&gt;Xavier Ros Roca&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/francisca-rosell-camps&#34;&gt;Francisca Rosell Camps&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;a href=&#34;https://www.upc.edu&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://acosemsustran.github.io/files/images/UPC.png&#34; alt=&#34;UPC logo&#34; style=&#34;display:inline-block;width:30%;height:auto;&#34;&gt;&lt;/a&gt;&lt;/center&gt;</description>
+    </item>
+    
+    <item>
+      <title>PID2020-112967GB-C32</title>
+      <link>https://acosemsustran.github.io/project/pid2020-112967gb-c32/</link>
+      <pubDate>Sat, 04 Jun 2022 16:38:15 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/project/pid2020-112967gb-c32/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Meeting Artificial Intelligence and Machine Learning for Rail Passenger Service Planning under Competition.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The shared objectives of this subproject are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;O1 UPC-URJC-UCLM.&lt;/strong&gt; &lt;em&gt;Modelling of competition between operators using static Nash Equilibrium models. Analysis of access charges policies under regular and extreme scenarios.&lt;/em&gt; Infrastructure Managers (IMs), such as the Spanish &lt;em&gt;ADIF Alta Velocidad&lt;/em&gt; (passengers) and ADIF (passengers and freight), usually aim to recover the costs of the infrastructure from the transport operators.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;O3 UPC-UCLM.&lt;/strong&gt;  &lt;em&gt;Modelling the time slot allocation by the Infrastructure Manager (IM) in deregulated markets in both normal and low demand scenarios.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;O4 URJC-UCLM.&lt;/strong&gt; &lt;em&gt;Combining operations research methods, machine learning and artificial intelligence to advance the theory and practice of operational transportation system planning and management in competitive scenarios.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;O7 UCLM.&lt;/strong&gt; &lt;em&gt;Design of machine learning methods and artificial intelligence for the tactical analysis of the competition in transport systems.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Principal Investigators:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/ricardo-garcia-rodenas/&#34;&gt;Ricardo García Ródenas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/juan-moreno-garcia/&#34;&gt;Juan Moreno Garcia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Research team:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/ester-del-castillo-herrera&#34;&gt;Ester del Castillo Herrera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/luis-rodriguez-benitez/&#34;&gt;Luis Rodríguez Benitez&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/maria-luz-lopez-garcia/&#34;&gt;María Luz López García&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/julio-alberto-lopez-gomez/&#34;&gt;Julio Alberto López Gómez&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Work team:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/julio-alberto-lopez-gomez/&#34;&gt;&lt;/a&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/jose-angel-martin-baos/&#34;&gt;José Ángel Martín Baos&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/jose-carlos-garcia-garcia/&#34;&gt;José Carlos García García&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;a href=&#34;https://www.uclm.es&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://acosemsustran.github.io/files/images/UCLM.png&#34; alt=&#34;UCLM logo&#34; style=&#34;display:inline-block;width:30%;height:auto;&#34;&gt;&lt;/a&gt;&lt;/center&gt;</description>
+    </item>
+    
+    <item>
+      <title>PID2020-112967GB-C33</title>
+      <link>https://acosemsustran.github.io/project/pid2020-112967gb-c33/</link>
+      <pubDate>Fri, 03 Jun 2022 16:10:47 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/project/pid2020-112967gb-c33/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Meeting Operations Research and Machine Learning for Efficient Planning, Management and Control at Air Transport Mobility.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The shared objectives of this subproject are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;01 UPC-URJC-UCLM&lt;/strong&gt;. Modelling of competition between operators using static Nash Equilibrium models. Analysis of access charges policies under regular and extreme scenarios.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;02 UPC-URJC&lt;/strong&gt;. Strategic planning of fleets and routes in multimodal environments in competition and under highly variable settings.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;04 URJC-UCLM&lt;/strong&gt;. Combining operational research methods, machine learning and artificial intelligence to advance the theory and practice of operational transportation system planning and management in competitive scenarios.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;06 URJC&lt;/strong&gt;. Introduction of machine learning technics in traffic guidance, navigation and control systems for safe and efficient mobility.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Principal Investigators:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/luis-cadarso-morga/&#34;&gt;Luis Cadarso Morga&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/raul-de-celis-fernandez/&#34;&gt;Raúl de Celis Fernández&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Research team:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/luis-jimenez-linares&#34;&gt;Luís Jiménez Linares&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/andreu-carbo-molina&#34;&gt;Andreu Carbó Molina&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/jorge-saavedra-garcia&#34;&gt;Jorge Saavedra García&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/xin-chen&#34;&gt;Xin Chen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Work team:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/cynthia-barnhart&#34;&gt;Cynthia Barnhart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/vikrant-vaze&#34;&gt;Vikrant Vaze&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/agustin-villa-ortiz&#34;&gt;Agustín Villa Ortiz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/pablo-solano-lopez&#34;&gt;Pablo Solano López&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/adrian-barea-vilar&#34;&gt;Adrián Barea Vilar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;a href=&#34;https://www.urjc.es&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://acosemsustran.github.io/files/images/URJC.png&#34; alt=&#34;URJC logo&#34; style=&#34;display:inline-block;width:30%;height:auto;&#34;&gt;&lt;/a&gt;&lt;/center&gt;</description>
+    </item>
+    
+    <item>
+      <title>Demand model estimation from smartphone data. An application to assert new urbanistic development scenarios</title>
+      <link>https://acosemsustran.github.io/publication/demand-model-estimation-from-smartphone-data-an-application-to-assert-new-urbanistic-development-scenarios/</link>
+      <pubDate>Fri, 11 Mar 2022 12:18:54 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/demand-model-estimation-from-smartphone-data-an-application-to-assert-new-urbanistic-development-scenarios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Mixed-integer Linear Program for Real-time Train Platforming Management</title>
+      <link>https://acosemsustran.github.io/publication/a-mixed-integer-linear-program-for-real-time-train-platforming-management/</link>
+      <pubDate>Fri, 11 Mar 2022 12:15:27 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/a-mixed-integer-linear-program-for-real-time-train-platforming-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microscopic Disruption Management: Energy Consumption and Passenger Compensation Optimisation</title>
+      <link>https://acosemsustran.github.io/publication/microscopic-disruption-management-energy-consumption-and-passenger-compensation-optimisation/</link>
+      <pubDate>Fri, 11 Mar 2022 12:11:45 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/microscopic-disruption-management-energy-consumption-and-passenger-compensation-optimisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparative study of machine learning, deep neural networks and random utility maximization models for travel mode choice modelling</title>
+      <link>https://acosemsustran.github.io/publication/a-comparative-study-of-machine-learning-deep-neural-networks-and-random-utility-maximization-models-for-travel-mode-choice-modelling/</link>
+      <pubDate>Fri, 11 Mar 2022 10:36:09 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/a-comparative-study-of-machine-learning-deep-neural-networks-and-random-utility-maximization-models-for-travel-mode-choice-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Intermodal Dispatcher for the Assignment of Public Transport and Ride Pooling Services</title>
+      <link>https://acosemsustran.github.io/publication/an-intermodal-dispatcher-for-the-assignment-of-public-transport-and-ride-pooling-services/</link>
+      <pubDate>Tue, 01 Mar 2022 12:07:51 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/an-intermodal-dispatcher-for-the-assignment-of-public-transport-and-ride-pooling-services/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transport analytic approaches to the dynamic origin-destination estimation problem</title>
+      <link>https://acosemsustran.github.io/publication/transport-analytic-approaches-to-the-dynamic-origin-destination-estimation-problem/</link>
+      <pubDate>Sat, 01 Jan 2022 11:00:40 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/transport-analytic-approaches-to-the-dynamic-origin-destination-estimation-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Python package for performing penalized maximum likelihood estimation of conditional logit models using Kernel Logistic Regression</title>
+      <link>https://acosemsustran.github.io/publication/a-python-package-for-performing-penalized-maximum-likelihood-estimation-of-conditional-logit-models-using-kernel-logistic-regression/</link>
+      <pubDate>Wed, 08 Dec 2021 09:58:02 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/a-python-package-for-performing-penalized-maximum-likelihood-estimation-of-conditional-logit-models-using-kernel-logistic-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Exploring the Direct and Indirect Use of ICT Measurements in DODME (Dynamic OD Matrix Estimation)</title>
+      <link>https://acosemsustran.github.io/publication/exploring-the-direct-and-indirect-use-of-ict-measurements-in-dodme-dynamic-od-matrix-estimation/</link>
+      <pubDate>Mon, 15 Nov 2021 11:04:56 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/exploring-the-direct-and-indirect-use-of-ict-measurements-in-dodme-dynamic-od-matrix-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting kernel logistic regression under the random utility models perspective. An interpretable machine-learning approach</title>
+      <link>https://acosemsustran.github.io/publication/mgr-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/mgr-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A surrogate-based cooperative optimization framework for computationally expensive black-box problems</title>
+      <link>https://acosemsustran.github.io/publication/a-surrogate-based-cooperative-optimization-framework-for-computationally-expensive-black-box-problems/</link>
+      <pubDate>Thu, 02 Jul 2020 10:12:35 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/a-surrogate-based-cooperative-optimization-framework-for-computationally-expensive-black-box-problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A model that assesses proposals for infrastructure improvement and capacity expansion on a mixed railway network</title>
+      <link>https://acosemsustran.github.io/publication/a-model-that-assesses-proposals-for-infrastructure-improvement-and-capacity-expansion-on-a-mixed-railway-network/</link>
+      <pubDate>Wed, 01 Apr 2020 11:03:18 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/a-model-that-assesses-proposals-for-infrastructure-improvement-and-capacity-expansion-on-a-mixed-railway-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A model for the simultaneous selection of bus lines and frequency setting problems in the expansion of public transit systems</title>
+      <link>https://acosemsustran.github.io/publication/a-model-for-the-simultaneous-selection-of-bus-lines-and-frequency-setting-problems-in-the-expansion-of-public-transit-systems/</link>
+      <pubDate>Wed, 01 Apr 2020 11:00:18 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/a-model-for-the-simultaneous-selection-of-bus-lines-and-frequency-setting-problems-in-the-expansion-of-public-transit-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multi-objective programming model for timetables on corridors integrating macroscopic and microscopic approaches</title>
+      <link>https://acosemsustran.github.io/publication/a-multi-objective-programming-model-for-timetables-on-corridors-integrating-macroscopic-and-microscopic-approaches/</link>
+      <pubDate>Wed, 01 Apr 2020 10:56:56 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/a-multi-objective-programming-model-for-timetables-on-corridors-integrating-macroscopic-and-microscopic-approaches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Using GPS tracking data to validate route choice in OD trips within dense urban networks</title>
+      <link>https://acosemsustran.github.io/publication/using-gps-tracking-data-to-validate-route-choice-in-od-trips-within-dense-urban-networks/</link>
+      <pubDate>Wed, 01 Apr 2020 10:52:24 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/using-gps-tracking-data-to-validate-route-choice-in-od-trips-within-dense-urban-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Traffic Simulation Tool for Assessing Smart City Policies (CitScale)</title>
+      <link>https://acosemsustran.github.io/publication/a-traffic-simulation-tool-for-assessing-smart-city-policies-citscale/</link>
+      <pubDate>Wed, 01 Jan 2020 10:54:30 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/a-traffic-simulation-tool-for-assessing-smart-city-policies-citscale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the quality of SPSA and Spiess-like approaches for Dynamic OD Matrix Estimation</title>
+      <link>https://acosemsustran.github.io/publication/investigating-the-quality-of-spsa-and-spiess-like-approaches-for-dynamic-od-matrix-estimation/</link>
+      <pubDate>Thu, 19 Dec 2019 10:57:05 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/investigating-the-quality-of-spsa-and-spiess-like-approaches-for-dynamic-od-matrix-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PyKernelLogit</title>
+      <link>https://acosemsustran.github.io/software/pykernellogit/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/software/pykernellogit/</guid>
+      <description>&lt;h3 id=&#34;what-is-pykernellogit&#34;&gt;What is PyKernelLogit&lt;/h3&gt;
+&lt;p&gt;PyKernelLogit is a Python package for performing maximum likelihood estimation
+of conditional logit models and similar discrete choice models based on the
+Python package PyLogit. This package extends the functionalities of PyLogit to
+provide some functionalities that allows to estimate discrete choice models
+based on Kernel Logistic Regression (KLR). Moreover, this package provides some
+functions to estimate indicators such as the Willingness to Pay (WTP) for the
+KLR models.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;installation&#34;&gt;Installation&lt;/h3&gt;
+&lt;p&gt;PyKernelLogit is available for its installation on the Python Package Index at:
+&lt;a href=&#34;https://pypi.org/project/pykernellogit/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pypi.org/project/pykernellogit/&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;
+&lt;p&gt;PyKernelLogit was developed by José Ángel Martín Baos from the University of
+Castilla-La Mancha (&lt;a href=&#34;mailto:JoseAngel.Martin@uclm.es&#34;&gt;JoseAngel.Martin@uclm.es&lt;/a&gt;) based on the package PyLogit
+(&lt;a href=&#34;https://github.com/timothyb0912/pylogit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/timothyb0912/pylogit&lt;/a&gt;)
+developed by Timothy Brathwaite.&lt;/p&gt;
+&lt;p&gt;License&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Modified BSD (3-clause)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fusing mobile phone data with other data sources to generate input OD matrices for transport models</title>
+      <link>https://acosemsustran.github.io/publication/fusing-mobile-phone-data-with-other-data-sources-to-generate-input-od-matrices-for-transport-models/</link>
+      <pubDate>Thu, 24 Jan 2019 11:44:26 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/fusing-mobile-phone-data-with-other-data-sources-to-generate-input-od-matrices-for-transport-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A stochastic congested strategy-based transit assignment model with hard capacity constraints</title>
+      <link>https://acosemsustran.github.io/publication/combined-and-robust-modal-split-traffic-assignment-model-for-rail-and-road-freight-transport/</link>
+      <pubDate>Thu, 24 Jan 2019 11:19:13 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/combined-and-robust-modal-split-traffic-assignment-model-for-rail-and-road-freight-transport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Investigating the Performance of SPSA in Simulation-Optimization Approaches to Transportation Problems</title>
+      <link>https://acosemsustran.github.io/publication/investigating-the-performance-of-spsa-in-simulation-optimization-approaches-to-transportation-problems/</link>
+      <pubDate>Tue, 04 Dec 2018 12:22:32 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/investigating-the-performance-of-spsa-in-simulation-optimization-approaches-to-transportation-problems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://acosemsustran.github.io/privacy/</link>
+      <pubDate>Thu, 28 Jun 2018 00:00:00 +0100</pubDate>
+      <guid>https://acosemsustran.github.io/privacy/</guid>
+      <description>&lt;h2 id=&#34;privacy-policy&#34;&gt;Privacy Policy&lt;/h2&gt;
+&lt;p&gt;The privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.&lt;/p&gt;
+&lt;p&gt;First and foremost, we will never share any personal information (including your email address) to anyone without your direct consent.&lt;/p&gt;
+&lt;h3 id=&#34;log-files&#34;&gt;Log Files&lt;/h3&gt;
+&lt;p&gt;Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files may include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Internet Protocol addresses (IP)&lt;/li&gt;
+&lt;li&gt;Types of browser&lt;/li&gt;
+&lt;li&gt;Internet Service Provider (ISP)&lt;/li&gt;
+&lt;li&gt;Date and time stamp&lt;/li&gt;
+&lt;li&gt;Referring and exit pages&lt;/li&gt;
+&lt;li&gt;Number of clicks&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;All of this information is not linked to anything that is personally identifiable.&lt;/p&gt;
+&lt;h3 id=&#34;cookies-and-web-beacons&#34;&gt;Cookies and Web Beacons&lt;/h3&gt;
+&lt;p&gt;When you visit this site &amp;ldquo;convenience&amp;rdquo; cookies are stored on your computer when you submit a comment to help you log in faster to &lt;a href=&#34;http://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus&lt;/a&gt; the next time you leave a comment.&lt;/p&gt;
+&lt;p&gt;Third-party advertisers may also place and read cookies on your browser and/or use web beacons to collect information. This site has no access or control over these cookies. You should review the respective privacy policies on any and all third-party ad servers for more information regarding their practices and how to opt-out.&lt;/p&gt;
+&lt;p&gt;If you wish to disable cookies, you may do so through your web browser options. Instructions for doing so can be found on the specific web browsers&amp;rsquo; websites.&lt;/p&gt;
+&lt;h4 id=&#34;google-analytics&#34;&gt;Google Analytics&lt;/h4&gt;
+&lt;p&gt;Google Analytics is a web analytics tool used to understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read &lt;a href=&#34;https://marketingplatform.google.com/about/analytics/terms/us/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics Privacy Policy&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;This web page is based on &lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; for &lt;a href=&#34;https://gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Rapid transit network design: considering recovery robustness and risk aversion measures</title>
+      <link>https://acosemsustran.github.io/publication/rapid-transit-network-design-considering-recovery-robustness-and-risk-aversion-measures/</link>
+      <pubDate>Fri, 12 May 2017 10:47:43 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/rapid-transit-network-design-considering-recovery-robustness-and-risk-aversion-measures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://acosemsustran.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://acosemsustran.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://acosemsustran.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/people/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

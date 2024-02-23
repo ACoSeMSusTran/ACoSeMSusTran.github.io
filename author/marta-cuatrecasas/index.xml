@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marta Cuatrecasas | ACoSeMSusTran</title>
+    <link>https://acosemsustran.github.io/author/marta-cuatrecasas/</link>
+      <atom:link href="https://acosemsustran.github.io/author/marta-cuatrecasas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marta Cuatrecasas</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-en</language><lastBuildDate>Fri, 11 Mar 2022 12:18:54 +0000</lastBuildDate>
+    <image>
+      <url>https://acosemsustran.github.io/media/logo_hu5b3c60e6ebf8a879355ca5126b086bb5_68812_300x300_fit_lanczos_3.png</url>
+      <title>Marta Cuatrecasas</title>
+      <link>https://acosemsustran.github.io/author/marta-cuatrecasas/</link>
+    </image>
+    
+    <item>
+      <title>Demand model estimation from smartphone data. An application to assert new urbanistic development scenarios</title>
+      <link>https://acosemsustran.github.io/publication/demand-model-estimation-from-smartphone-data-an-application-to-assert-new-urbanistic-development-scenarios/</link>
+      <pubDate>Fri, 11 Mar 2022 12:18:54 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/demand-model-estimation-from-smartphone-data-an-application-to-assert-new-urbanistic-development-scenarios/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

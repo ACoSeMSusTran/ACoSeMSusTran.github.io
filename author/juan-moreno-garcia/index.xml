@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Juan Moreno García | ACoSeMSusTran</title>
+    <link>https://acosemsustran.github.io/author/juan-moreno-garcia/</link>
+      <atom:link href="https://acosemsustran.github.io/author/juan-moreno-garcia/index.xml" rel="self" type="application/rss+xml" />
+    <description>Juan Moreno García</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-en</language>
+    <image>
+      <url>https://acosemsustran.github.io/author/juan-moreno-garcia/avatar_hu4e236f8b0514ac5ecf55b77e77902d57_61824_270x270_fill_lanczos_center_3.png</url>
+      <title>Juan Moreno García</title>
+      <link>https://acosemsustran.github.io/author/juan-moreno-garcia/</link>
+    </image>
+    
+  </channel>
+</rss>

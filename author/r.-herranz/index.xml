@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R. Herranz | ACoSeMSusTran</title>
+    <link>https://acosemsustran.github.io/author/r.-herranz/</link>
+      <atom:link href="https://acosemsustran.github.io/author/r.-herranz/index.xml" rel="self" type="application/rss+xml" />
+    <description>R. Herranz</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-en</language><lastBuildDate>Thu, 24 Jan 2019 11:44:26 +0000</lastBuildDate>
+    <image>
+      <url>https://acosemsustran.github.io/media/logo_hu5b3c60e6ebf8a879355ca5126b086bb5_68812_300x300_fit_lanczos_3.png</url>
+      <title>R. Herranz</title>
+      <link>https://acosemsustran.github.io/author/r.-herranz/</link>
+    </image>
+    
+    <item>
+      <title>Fusing mobile phone data with other data sources to generate input OD matrices for transport models</title>
+      <link>https://acosemsustran.github.io/publication/fusing-mobile-phone-data-with-other-data-sources-to-generate-input-od-matrices-for-transport-models/</link>
+      <pubDate>Thu, 24 Jan 2019 11:44:26 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/fusing-mobile-phone-data-with-other-data-sources-to-generate-input-od-matrices-for-transport-models/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

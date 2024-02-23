@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>José Ángel Martín-Baos | ACoSeMSusTran</title>
+    <link>https://acosemsustran.github.io/author/jose-angel-martin-baos/</link>
+      <atom:link href="https://acosemsustran.github.io/author/jose-angel-martin-baos/index.xml" rel="self" type="application/rss+xml" />
+    <description>José Ángel Martín-Baos</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-en</language><lastBuildDate>Wed, 07 Feb 2024 18:24:19 +0000</lastBuildDate>
+    <image>
+      <url>https://acosemsustran.github.io/media/logo_hu5b3c60e6ebf8a879355ca5126b086bb5_68812_300x300_fit_lanczos_3.png</url>
+      <title>José Ángel Martín-Baos</title>
+      <link>https://acosemsustran.github.io/author/jose-angel-martin-baos/</link>
+    </image>
+    
+    <item>
+      <title>PyKernelLogit: Penalised maximum likelihood estimation of Kernel Logistic Regression in Python</title>
+      <link>https://acosemsustran.github.io/publication/pykernellogit-penalised-maximum-likelihood-estimation-of-kernel-logistic-regression-in-python/</link>
+      <pubDate>Wed, 07 Feb 2024 18:24:19 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/pykernellogit-penalised-maximum-likelihood-estimation-of-kernel-logistic-regression-in-python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A prediction and behavioural analysis of machine learning methods for modelling travel mode choice</title>
+      <link>https://acosemsustran.github.io/publication/a-prediction-and-behavioural-analysis-of-machine-learning-methods-for-modelling-travel-mode-choice/</link>
+      <pubDate>Thu, 12 Jan 2023 09:18:00 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/a-prediction-and-behavioural-analysis-of-machine-learning-methods-for-modelling-travel-mode-choice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A comparative study of machine learning, deep neural networks and random utility maximization models for travel mode choice modelling</title>
+      <link>https://acosemsustran.github.io/publication/a-comparative-study-of-machine-learning-deep-neural-networks-and-random-utility-maximization-models-for-travel-mode-choice-modelling/</link>
+      <pubDate>Fri, 11 Mar 2022 10:36:09 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/a-comparative-study-of-machine-learning-deep-neural-networks-and-random-utility-maximization-models-for-travel-mode-choice-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Python package for performing penalized maximum likelihood estimation of conditional logit models using Kernel Logistic Regression</title>
+      <link>https://acosemsustran.github.io/publication/a-python-package-for-performing-penalized-maximum-likelihood-estimation-of-conditional-logit-models-using-kernel-logistic-regression/</link>
+      <pubDate>Wed, 08 Dec 2021 09:58:02 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/a-python-package-for-performing-penalized-maximum-likelihood-estimation-of-conditional-logit-models-using-kernel-logistic-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Revisiting kernel logistic regression under the random utility models perspective. An interpretable machine-learning approach</title>
+      <link>https://acosemsustran.github.io/publication/mgr-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/mgr-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PyKernelLogit</title>
+      <link>https://acosemsustran.github.io/software/pykernellogit/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/software/pykernellogit/</guid>
+      <description>&lt;h3 id=&#34;what-is-pykernellogit&#34;&gt;What is PyKernelLogit&lt;/h3&gt;
+&lt;p&gt;PyKernelLogit is a Python package for performing maximum likelihood estimation
+of conditional logit models and similar discrete choice models based on the
+Python package PyLogit. This package extends the functionalities of PyLogit to
+provide some functionalities that allows to estimate discrete choice models
+based on Kernel Logistic Regression (KLR). Moreover, this package provides some
+functions to estimate indicators such as the Willingness to Pay (WTP) for the
+KLR models.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;installation&#34;&gt;Installation&lt;/h3&gt;
+&lt;p&gt;PyKernelLogit is available for its installation on the Python Package Index at:
+&lt;a href=&#34;https://pypi.org/project/pykernellogit/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pypi.org/project/pykernellogit/&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;
+&lt;p&gt;PyKernelLogit was developed by José Ángel Martín Baos from the University of
+Castilla-La Mancha (&lt;a href=&#34;mailto:JoseAngel.Martin@uclm.es&#34;&gt;JoseAngel.Martin@uclm.es&lt;/a&gt;) based on the package PyLogit
+(&lt;a href=&#34;https://github.com/timothyb0912/pylogit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/timothyb0912/pylogit&lt;/a&gt;)
+developed by Timothy Brathwaite.&lt;/p&gt;
+&lt;p&gt;License&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Modified BSD (3-clause)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

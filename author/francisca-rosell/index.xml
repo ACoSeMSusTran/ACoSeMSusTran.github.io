@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Francisca Rosell | ACoSeMSusTran</title>
+    <link>https://acosemsustran.github.io/author/francisca-rosell/</link>
+      <atom:link href="https://acosemsustran.github.io/author/francisca-rosell/index.xml" rel="self" type="application/rss+xml" />
+    <description>Francisca Rosell</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-en</language><lastBuildDate>Fri, 16 Sep 2022 15:54:28 +0000</lastBuildDate>
+    <image>
+      <url>https://acosemsustran.github.io/media/logo_hu5b3c60e6ebf8a879355ca5126b086bb5_68812_300x300_fit_lanczos_3.png</url>
+      <title>Francisca Rosell</title>
+      <link>https://acosemsustran.github.io/author/francisca-rosell/</link>
+    </image>
+    
+    <item>
+      <title>A combined and robust modal-split/traffic assignment model for rail and road freight transport</title>
+      <link>https://acosemsustran.github.io/publication/a-combined-and-robust-modal-split-traffic-assignment-model-for-rail-and-road-freight-transport/</link>
+      <pubDate>Fri, 16 Sep 2022 15:54:28 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/a-combined-and-robust-modal-split-traffic-assignment-model-for-rail-and-road-freight-transport/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A model that assesses proposals for infrastructure improvement and capacity expansion on a mixed railway network</title>
+      <link>https://acosemsustran.github.io/publication/a-model-that-assesses-proposals-for-infrastructure-improvement-and-capacity-expansion-on-a-mixed-railway-network/</link>
+      <pubDate>Wed, 01 Apr 2020 11:03:18 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/a-model-that-assesses-proposals-for-infrastructure-improvement-and-capacity-expansion-on-a-mixed-railway-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A stochastic congested strategy-based transit assignment model with hard capacity constraints</title>
+      <link>https://acosemsustran.github.io/publication/combined-and-robust-modal-split-traffic-assignment-model-for-rail-and-road-freight-transport/</link>
+      <pubDate>Thu, 24 Jan 2019 11:19:13 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/combined-and-robust-modal-split-traffic-assignment-model-for-rail-and-road-freight-transport/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

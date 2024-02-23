@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Raúl de Celis Fernández | ACoSeMSusTran</title>
+    <link>https://acosemsustran.github.io/author/raul-de-celis-fernandez/</link>
+      <atom:link href="https://acosemsustran.github.io/author/raul-de-celis-fernandez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raúl de Celis Fernández</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-en</language><lastBuildDate>Fri, 03 Jun 2022 16:10:47 +0000</lastBuildDate>
+    <image>
+      <url>https://acosemsustran.github.io/media/logo_hu5b3c60e6ebf8a879355ca5126b086bb5_68812_300x300_fit_lanczos_3.png</url>
+      <title>Raúl de Celis Fernández</title>
+      <link>https://acosemsustran.github.io/author/raul-de-celis-fernandez/</link>
+    </image>
+    
+    <item>
+      <title>PID2020-112967GB-C33</title>
+      <link>https://acosemsustran.github.io/project/pid2020-112967gb-c33/</link>
+      <pubDate>Fri, 03 Jun 2022 16:10:47 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/project/pid2020-112967gb-c33/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Meeting Operations Research and Machine Learning for Efficient Planning, Management and Control at Air Transport Mobility.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The shared objectives of this subproject are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;01 UPC-URJC-UCLM&lt;/strong&gt;. Modelling of competition between operators using static Nash Equilibrium models. Analysis of access charges policies under regular and extreme scenarios.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;02 UPC-URJC&lt;/strong&gt;. Strategic planning of fleets and routes in multimodal environments in competition and under highly variable settings.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;04 URJC-UCLM&lt;/strong&gt;. Combining operational research methods, machine learning and artificial intelligence to advance the theory and practice of operational transportation system planning and management in competitive scenarios.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;06 URJC&lt;/strong&gt;. Introduction of machine learning technics in traffic guidance, navigation and control systems for safe and efficient mobility.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Principal Investigators:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/luis-cadarso-morga/&#34;&gt;Luis Cadarso Morga&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/raul-de-celis-fernandez/&#34;&gt;Raúl de Celis Fernández&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Research team:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/luis-jimenez-linares&#34;&gt;Luís Jiménez Linares&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/andreu-carbo-molina&#34;&gt;Andreu Carbó Molina&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/jorge-saavedra-garcia&#34;&gt;Jorge Saavedra García&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/xin-chen&#34;&gt;Xin Chen&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Work team:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/cynthia-barnhart&#34;&gt;Cynthia Barnhart&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/vikrant-vaze&#34;&gt;Vikrant Vaze&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/agustin-villa-ortiz&#34;&gt;Agustín Villa Ortiz&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/pablo-solano-lopez&#34;&gt;Pablo Solano López&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://acosemsustran.github.io/author/adrian-barea-vilar&#34;&gt;Adrián Barea Vilar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;center&gt;&lt;a href=&#34;https://www.urjc.es&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://acosemsustran.github.io/files/images/URJC.png&#34; alt=&#34;URJC logo&#34; style=&#34;display:inline-block;width:30%;height:auto;&#34;&gt;&lt;/a&gt;&lt;/center&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

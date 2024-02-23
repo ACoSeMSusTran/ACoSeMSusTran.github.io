@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software | ACoSeMSusTran</title>
+    <link>https://acosemsustran.github.io/software/</link>
+      <atom:link href="https://acosemsustran.github.io/software/index.xml" rel="self" type="application/rss+xml" />
+    <description>Software</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-en</language><lastBuildDate>Thu, 31 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://acosemsustran.github.io/media/logo_hu5b3c60e6ebf8a879355ca5126b086bb5_68812_300x300_fit_lanczos_3.png</url>
+      <title>Software</title>
+      <link>https://acosemsustran.github.io/software/</link>
+    </image>
+    
+    <item>
+      <title>PyKernelLogit</title>
+      <link>https://acosemsustran.github.io/software/pykernellogit/</link>
+      <pubDate>Thu, 31 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/software/pykernellogit/</guid>
+      <description>&lt;h3 id=&#34;what-is-pykernellogit&#34;&gt;What is PyKernelLogit&lt;/h3&gt;
+&lt;p&gt;PyKernelLogit is a Python package for performing maximum likelihood estimation
+of conditional logit models and similar discrete choice models based on the
+Python package PyLogit. This package extends the functionalities of PyLogit to
+provide some functionalities that allows to estimate discrete choice models
+based on Kernel Logistic Regression (KLR). Moreover, this package provides some
+functions to estimate indicators such as the Willingness to Pay (WTP) for the
+KLR models.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;installation&#34;&gt;Installation&lt;/h3&gt;
+&lt;p&gt;PyKernelLogit is available for its installation on the Python Package Index at:
+&lt;a href=&#34;https://pypi.org/project/pykernellogit/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://pypi.org/project/pykernellogit/&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;authors&#34;&gt;Authors&lt;/h3&gt;
+&lt;p&gt;PyKernelLogit was developed by José Ángel Martín Baos from the University of
+Castilla-La Mancha (&lt;a href=&#34;mailto:JoseAngel.Martin@uclm.es&#34;&gt;JoseAngel.Martin@uclm.es&lt;/a&gt;) based on the package PyLogit
+(&lt;a href=&#34;https://github.com/timothyb0912/pylogit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/timothyb0912/pylogit&lt;/a&gt;)
+developed by Timothy Brathwaite.&lt;/p&gt;
+&lt;p&gt;License&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Modified BSD (3-clause)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adrián Barea Vilar | ACoSeMSusTran</title>
+    <link>https://acosemsustran.github.io/author/adrian-barea-vilar/</link>
+      <atom:link href="https://acosemsustran.github.io/author/adrian-barea-vilar/index.xml" rel="self" type="application/rss+xml" />
+    <description>Adrián Barea Vilar</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-en</language>
+    <image>
+      <url>https://acosemsustran.github.io/author/adrian-barea-vilar/avatar_hu16b14463ce65179a362e10f8cd3ab322_14733_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Adrián Barea Vilar</title>
+      <link>https://acosemsustran.github.io/author/adrian-barea-vilar/</link>
+    </image>
+    
+  </channel>
+</rss>

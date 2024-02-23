@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ángel Marín | ACoSeMSusTran</title>
+    <link>https://acosemsustran.github.io/author/angel-marin/</link>
+      <atom:link href="https://acosemsustran.github.io/author/angel-marin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ángel Marín</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-en</language><lastBuildDate>Wed, 01 Apr 2020 10:56:56 +0000</lastBuildDate>
+    <image>
+      <url>https://acosemsustran.github.io/media/logo_hu5b3c60e6ebf8a879355ca5126b086bb5_68812_300x300_fit_lanczos_3.png</url>
+      <title>Ángel Marín</title>
+      <link>https://acosemsustran.github.io/author/angel-marin/</link>
+    </image>
+    
+    <item>
+      <title>A multi-objective programming model for timetables on corridors integrating macroscopic and microscopic approaches</title>
+      <link>https://acosemsustran.github.io/publication/a-multi-objective-programming-model-for-timetables-on-corridors-integrating-macroscopic-and-microscopic-approaches/</link>
+      <pubDate>Wed, 01 Apr 2020 10:56:56 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/a-multi-objective-programming-model-for-timetables-on-corridors-integrating-macroscopic-and-microscopic-approaches/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid transit network design: considering recovery robustness and risk aversion measures</title>
+      <link>https://acosemsustran.github.io/publication/rapid-transit-network-design-considering-recovery-robustness-and-risk-aversion-measures/</link>
+      <pubDate>Fri, 12 May 2017 10:47:43 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/rapid-transit-network-design-considering-recovery-robustness-and-risk-aversion-measures/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

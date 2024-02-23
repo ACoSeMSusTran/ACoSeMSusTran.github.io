@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arne Schneck | ACoSeMSusTran</title>
+    <link>https://acosemsustran.github.io/author/arne-schneck/</link>
+      <atom:link href="https://acosemsustran.github.io/author/arne-schneck/index.xml" rel="self" type="application/rss+xml" />
+    <description>Arne Schneck</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-en</language><lastBuildDate>Tue, 04 Dec 2018 12:22:32 +0000</lastBuildDate>
+    <image>
+      <url>https://acosemsustran.github.io/media/logo_hu5b3c60e6ebf8a879355ca5126b086bb5_68812_300x300_fit_lanczos_3.png</url>
+      <title>Arne Schneck</title>
+      <link>https://acosemsustran.github.io/author/arne-schneck/</link>
+    </image>
+    
+    <item>
+      <title>Investigating the Performance of SPSA in Simulation-Optimization Approaches to Transportation Problems</title>
+      <link>https://acosemsustran.github.io/publication/investigating-the-performance-of-spsa-in-simulation-optimization-approaches-to-transportation-problems/</link>
+      <pubDate>Tue, 04 Dec 2018 12:22:32 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/investigating-the-performance-of-spsa-in-simulation-optimization-approaches-to-transportation-problems/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

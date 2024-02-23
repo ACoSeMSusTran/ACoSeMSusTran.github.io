@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maria Paz Linares | ACoSeMSusTran</title>
+    <link>https://acosemsustran.github.io/author/maria-paz-linares/</link>
+      <atom:link href="https://acosemsustran.github.io/author/maria-paz-linares/index.xml" rel="self" type="application/rss+xml" />
+    <description>Maria Paz Linares</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-en</language><lastBuildDate>Fri, 11 Mar 2022 12:18:54 +0000</lastBuildDate>
+    <image>
+      <url>https://acosemsustran.github.io/media/logo_hu5b3c60e6ebf8a879355ca5126b086bb5_68812_300x300_fit_lanczos_3.png</url>
+      <title>Maria Paz Linares</title>
+      <link>https://acosemsustran.github.io/author/maria-paz-linares/</link>
+    </image>
+    
+    <item>
+      <title>Demand model estimation from smartphone data. An application to assert new urbanistic development scenarios</title>
+      <link>https://acosemsustran.github.io/publication/demand-model-estimation-from-smartphone-data-an-application-to-assert-new-urbanistic-development-scenarios/</link>
+      <pubDate>Fri, 11 Mar 2022 12:18:54 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/demand-model-estimation-from-smartphone-data-an-application-to-assert-new-urbanistic-development-scenarios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Traffic Simulation Tool for Assessing Smart City Policies (CitScale)</title>
+      <link>https://acosemsustran.github.io/publication/a-traffic-simulation-tool-for-assessing-smart-city-policies-citscale/</link>
+      <pubDate>Wed, 01 Jan 2020 10:54:30 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/a-traffic-simulation-tool-for-assessing-smart-city-policies-citscale/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

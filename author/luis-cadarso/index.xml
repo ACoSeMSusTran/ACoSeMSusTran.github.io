@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Luis Cadarso | ACoSeMSusTran</title>
+    <link>https://acosemsustran.github.io/author/luis-cadarso/</link>
+      <atom:link href="https://acosemsustran.github.io/author/luis-cadarso/index.xml" rel="self" type="application/rss+xml" />
+    <description>Luis Cadarso</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-en</language><lastBuildDate>Fri, 23 Feb 2024 16:09:53 +0000</lastBuildDate>
+    <image>
+      <url>https://acosemsustran.github.io/media/logo_hu5b3c60e6ebf8a879355ca5126b086bb5_68812_300x300_fit_lanczos_3.png</url>
+      <title>Luis Cadarso</title>
+      <link>https://acosemsustran.github.io/author/luis-cadarso/</link>
+    </image>
+    
+    <item>
+      <title>An efficient greedy heuristic for the real-time train platforming problem</title>
+      <link>https://acosemsustran.github.io/publication/an-efficient-greedy-heuristic-for-the-real-time-train-platforming-problem/</link>
+      <pubDate>Fri, 23 Feb 2024 16:09:53 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/an-efficient-greedy-heuristic-for-the-real-time-train-platforming-problem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Mixed-integer Linear Program for Real-time Train Platforming Management</title>
+      <link>https://acosemsustran.github.io/publication/a-mixed-integer-linear-program-for-real-time-train-platforming-management/</link>
+      <pubDate>Fri, 11 Mar 2022 12:15:27 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/a-mixed-integer-linear-program-for-real-time-train-platforming-management/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microscopic Disruption Management: Energy Consumption and Passenger Compensation Optimisation</title>
+      <link>https://acosemsustran.github.io/publication/microscopic-disruption-management-energy-consumption-and-passenger-compensation-optimisation/</link>
+      <pubDate>Fri, 11 Mar 2022 12:11:45 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/microscopic-disruption-management-energy-consumption-and-passenger-compensation-optimisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rapid transit network design: considering recovery robustness and risk aversion measures</title>
+      <link>https://acosemsustran.github.io/publication/rapid-transit-network-design-considering-recovery-robustness-and-risk-aversion-measures/</link>
+      <pubDate>Fri, 12 May 2017 10:47:43 +0000</pubDate>
+      <guid>https://acosemsustran.github.io/publication/rapid-transit-network-design-considering-recovery-robustness-and-risk-aversion-measures/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
